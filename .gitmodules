@@ -1,3 +1,6 @@
 [submodule "client"]
 	path = client
 	url = https://github.com/alexlee78980/client-food-order
+[submodule "server"]
+	path = server
+	url = https://git.heroku.com/practice-food-app.git
